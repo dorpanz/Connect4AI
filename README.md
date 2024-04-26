@@ -16,7 +16,7 @@
   <h2>Running the Game</h2>
   <ol>
     <li>Clone the repository:</li>
-    <pre>git clone https://github.com/destowq/Connect4.git</pre>
+    <pre>git clone https://github.com/dorpanz/Connect4AI.git</pre>
     <li>Compile the code:</li>
     <pre>cd connect-four-java<br>javac ConnectFour.java</pre>
     <li>Run the game:</li>
